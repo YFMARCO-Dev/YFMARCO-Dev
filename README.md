@@ -93,7 +93,8 @@ I am also the Team Leader of Spider-Team 🕷, always striving to improve my ski
 
 # 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YFMARCO-Dev&theme=github-compact" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YFMARCO-Dev&show_icons=true&theme=radical&hide_rank=true" height="100"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YFMARCO-Dev&theme=radical" height="100"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YFMARCO-Dev&theme=github-compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YFMARCO-Dev&show_icons=true&theme=radical&hide_rank=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YFMARCO-Dev&theme=radical" height="200"/>
 </p>
+
