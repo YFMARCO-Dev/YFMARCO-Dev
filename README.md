@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=%2300FFFF&height=180&section=header&text=YFMARCO-Dev&fontSize=50&animation=waving&fontAlignY=35&desc=Team%20Leader%20of%20Spider-Team&descAlignY=45&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=YFMARCO-Dev&textBg=false&rotate=-1&desc=Leader%20of%20Spider-Team🕷&descSize=20&descAlign=63&descAlignY=63&animation=scaleIn"/>
 </p>
 
 # 👦 About Me:
